@@ -9,8 +9,13 @@ This project is open source: https://github.com/AquaMorph/FRC-Drive
 Disclaimer: This app is unofficial and I am not responsible for any problems that result from this app.
 
 Features:
+
 *Simplistic Holo Interface
+
 *Teleop and Autonomous modes
+
 *Two onscreen joysticks and throttles with full 12 buttons each
+
 *USB and Axis selection
+
 *OTG support for one joystick or controller
