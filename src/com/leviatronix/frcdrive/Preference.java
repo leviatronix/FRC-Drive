@@ -1,4 +1,4 @@
-package com.aquamorph.frcdrive;
+package com.leviatronix.frcdrive;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;

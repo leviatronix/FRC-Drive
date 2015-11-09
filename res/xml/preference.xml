@@ -3,8 +3,8 @@
 
     <intent
         android:action="android.intent.action.VIEW"
-        android:targetClass="com.aquamorph.frcdrive.Preference"
-        android:targetPackage="com.aquamorph.frcdrive" />
+        android:targetClass="com.leviatronix.frcdrive.Preference"
+        android:targetPackage="com.leviatronix.frcdrive" />
 
     <PreferenceCategory
         android:summary="USB Ports"
@@ -58,8 +58,8 @@
             android:title="Version 1.0.1" />
         <PreferenceScreen
             android:key="preferencescreen_about"
-            android:summary="FRC Team 2059 The Hitchhikers"
-            android:title="Created by Christian Colglazier" />
+            android:summary="FRC Team 3223 Retrobotics"
+            android:title="Created by Caleb Wyllie" />
     </PreferenceCategory>
 
 </PreferenceScreen>

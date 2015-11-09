@@ -1,4 +1,4 @@
-package com.aquamorph.frcdrive;
+package com.leviatronix.frcdrive;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -12,10 +12,9 @@ import android.widget.CompoundButton;
 import android.widget.RadioButton;
 import android.widget.ToggleButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
-import com.aquamorph.frcdrive.Joystick;
-import com.aquamorph.frcdrive.Joystick.OnChangeListener;
-import com.aquamorph.frcdrive.Throttle;
-import com.aquamorph.frcdrive.Throttle.OnChangeListenerThrottle;
+
+import com.leviatronix.frcdrive.Joystick.OnChangeListener;
+import com.leviatronix.frcdrive.Throttle.OnChangeListenerThrottle;
 
 public class Controls {
 	public boolean enabled = false;

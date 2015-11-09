@@ -1,4 +1,4 @@
-package com.aquamorph.frcdrive;
+package com.leviatronix.frcdrive;
 
 import java.util.zip.CRC32;
 
